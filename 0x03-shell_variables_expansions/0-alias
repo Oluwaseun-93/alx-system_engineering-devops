@@ -1,2 +1,2 @@
 #!/bin/bash
-alias f="filename"
+alias ls ="ls-al"
