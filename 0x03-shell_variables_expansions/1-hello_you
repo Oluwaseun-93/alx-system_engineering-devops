@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, user" > me
+Hello, myuser
